@@ -1,2 +1,2 @@
-# papps
+# Python Programming - Best Practices
 Practice Applications
